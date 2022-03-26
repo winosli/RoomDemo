@@ -1,0 +1,42 @@
+com/test/roomsqlite/relations/UsersBooksRef.java
+ com.test.roomsqlite.relations.UsersBooksRef
+com/test/roomsqlite/data/Converters.java
+ com.test.roomsqlite.data.Converters
+ com.test.roomsqlite.data.Converters$1
+ com.test.roomsqlite.data.Converters$2
+com/test/roomsqlite/AddUserActivity.java
+ com.test.roomsqlite.AddUserActivity
+ com.test.roomsqlite.AddUserActivity$1
+com/test/roomsqlite/adapters/UserAdapter.java
+ com.test.roomsqlite.adapters.UserAdapter
+ com.test.roomsqlite.adapters.UserAdapter$MyViewHolder
+ com.test.roomsqlite.adapters.UserAdapter$MyViewHolder$1
+ com.test.roomsqlite.adapters.UserAdapter$onUserListener
+com/test/roomsqlite/relations/UsersWithBooks.java
+ com.test.roomsqlite.relations.UsersWithBooks
+com/test/roomsqlite/data/User.java
+ com.test.roomsqlite.data.User
+com/test/roomsqlite/data/AppDatabase.java
+ com.test.roomsqlite.data.AppDatabase
+com/test/roomsqlite/MainActivity.java
+ com.test.roomsqlite.MainActivity
+ com.test.roomsqlite.MainActivity$1
+ com.test.roomsqlite.MainActivity$2
+com/test/roomsqlite/adapters/BookAdapter.java
+ com.test.roomsqlite.adapters.BookAdapter
+ com.test.roomsqlite.adapters.BookAdapter$MyViewHolder
+ com.test.roomsqlite.adapters.BookAdapter$MyViewHolder$1
+ com.test.roomsqlite.adapters.BookAdapter$onBookListener
+com/test/roomsqlite/BooksActivity.java
+ com.test.roomsqlite.BooksActivity
+ com.test.roomsqlite.BooksActivity$1
+com/test/roomsqlite/data/UsersBookDao.java
+ com.test.roomsqlite.data.UsersBookDao
+com/test/roomsqlite/data/UserDao.java
+ com.test.roomsqlite.data.UserDao
+com/test/roomsqlite/data/Book.java
+ com.test.roomsqlite.data.Book
+com/test/roomsqlite/data/BookDao.java
+ com.test.roomsqlite.data.BookDao
+com/test/roomsqlite/BuildConfig.java
+ com.test.roomsqlite.BuildConfig
